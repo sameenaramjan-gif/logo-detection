@@ -1,0 +1,7 @@
+# ─── Core ────────────────────────────────────────────────────────────────────
+tensorflow>=2.13.0          # Deep learning framework (CPU or GPU)
+opencv-python>=4.8.0        # Webcam capture and OpenCV rendering
+numpy>=1.24.0               # Numerical operations
+
+# ─── Optional (nice to have) ─────────────────────────────────────────────────
+matplotlib>=3.7.0           # Training-curve plots saved to models/
